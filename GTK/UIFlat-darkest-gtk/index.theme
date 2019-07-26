@@ -1,0 +1,5 @@
+[X-GNOME-Metatheme]
+Name=UIFlat-darkest-gtk
+Type=X-GNOME-Metatheme
+Comment=GTK theme to match the UIFlat-darkest Plasma theme and color scheme
+Encoding=UTF-8
